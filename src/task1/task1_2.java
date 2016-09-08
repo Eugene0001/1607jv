@@ -1,4 +1,4 @@
-/**
+package task1; /**
  * Created by Eugene on 23.06.2016.
  */
 import java.util.Scanner;
