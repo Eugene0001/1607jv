@@ -1,4 +1,4 @@
-package Costomer;
+package Customer;
 
 /**
  * Created by Eugene on 08.09.2016.
