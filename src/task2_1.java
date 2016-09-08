@@ -95,7 +95,7 @@ return;
         }
         System.out.println("");
     }
-    public static void sum7DivSum2 (){
+        public static void sum7DivSum2 (){
 //        System.out.println(summ1 / summ7);
     }
 }
